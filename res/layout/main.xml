@@ -39,5 +39,12 @@
 		android:progress="5"
 		android:paddingLeft="30dp"
 		android:paddingRight="30dp" />
+	
+	<Button
+			android:id="@+id/conf"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			android:text="@string/settings"
+		/>
 
 </LinearLayout>
